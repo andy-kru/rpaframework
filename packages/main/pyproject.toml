@@ -44,13 +44,13 @@ robocorp-storage = "^1.0.2"
 jsonpath-ng = "^1.5.2"
 robotframework = ">=4.0.0,!=4.0.1,!=6.1.0,<8.0.0"
 robotframework-sapguilibrary = { version = "^1.1", platform = "win32" }
-robotframework-seleniumlibrary = "^6.2.0"
-robotframework-seleniumtestability = "^2.0.0"
-robotframework-requests = "^0.9.6"
+robotframework-seleniumlibrary = "^6.3.0"
+robotframework-seleniumtestability = "^2.1.0"
+robotframework-requests = "^0.9.7"
 pywinauto = { version = "^0.6.8", platform = "win32", python = "!=3.8.1" }
 pywin32 = { version = ">=302,<307", platform = "win32", python = "!=3.8.1" }
 comtypes = { version = "^1.1.11", platform = "win32" }
-robotframework-pythonlibcore = "^4.2.0"
+robotframework-pythonlibcore = "^4.4.1"
 pynput-robocorp-fork = "^5.0.0"
 python-xlib = { version = ">=0.17", platform = "linux" }
 psutil = { version = "^5.7.0", platform = "win32" }
@@ -71,7 +71,7 @@ cryptography = "^42.0.5"
 mss = "^6.0.0"
 chardet = "^3.0.0"
 PySocks = ">=1.5.6,!=1.5.7,<2.0.0"
-selenium = "4.15.2"
+selenium = "4.20.0"
 click = "^8.1.2"
 PyYAML = ">=5.4.1,<7.0.0"
 tenacity = "^8.0.1"
